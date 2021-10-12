@@ -1,6 +1,6 @@
 \documentclass{ctexart}%ctexbook,ctexrep
 \title{\zihao{3} \LaTeX{}章节标题设置}
-\author{\zihao{-4} WSS}
+\author{\zihao{-4} AllenLeeFish}
 \date{\zihao{-4} \today}
 \pagestyle{plain}%页眉为空，页脚为页码
 %=================设置章节标题格式==================
